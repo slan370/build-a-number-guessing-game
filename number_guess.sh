@@ -6,7 +6,6 @@ NEW_BEST_GAME=0
 OLD_BEST_GAME=0
 NUMBER_OF_GUESSES=0
 
-echo -e "\n~~~~~ Number Guessing Game ~~~~~\n"
 echo "Enter your username:"
 read USERNAME
 
